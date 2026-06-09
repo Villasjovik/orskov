@@ -1,0 +1,12 @@
+{
+  "svgPath": "/Users/lucasm4max/Desktop/Claude/operational/projekt/villa-sjovik/pitchar/orskov/orskov.svg",
+  "svgFilename": "orskov.svg",
+  "brandColor": "#12372A",
+  "brandColorHex": "0x12372A",
+  "heroMaterialColor": "#C8CCD0",
+  "dominantDetected": "#9B1C1C",
+  "isLightLogo": false,
+  "material": "chrome",
+  "note": "Ørskov circular medallion (the Ø-monogram seal). Source is a deep-red filled circle with a white Ø carved out (orskov_circle_logo-192x192.png), traced to a flat single-path SVG via orskov-trace.mjs so Three.js SVGLoader can extrude it like a coin/seal. data-material=chrome (silver medallion) per task spec — gold is reserved for the Villa Sjövik logo, both gold would clash. Villa Sjövik logo always gold. Canonical dark-green palette unchanged; Ørskov forest-green #12372A only as metadata accent. data-motion=float-spin, data-rotate-speed=0.3.",
+  "generatedAt": "2026-06-09T00:00:00.000Z"
+}
